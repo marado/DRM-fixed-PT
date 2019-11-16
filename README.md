@@ -1,3 +1,3 @@
 # How did we fix DRM in Portugal (and so can you)
 
-This is a presentation made by [ANSOL](https://ANSOL.org) about the Portuguese DRM law, created to be presented in Brussels in 2019.
+This is a presentation made by [ANSOL](https://ANSOL.org) about the Portuguese DRM law, presented in the "EU FOSS policy meeting" which happened in February 2019 in Brussels.
